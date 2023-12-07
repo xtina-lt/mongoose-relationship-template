@@ -97,7 +97,7 @@ create: async (req, res) => {
  ![Showing Deleted User](/assets-readme/show-delete.png)
 
 
- ### Just for Funsies
+ # Just for Funsies 🦄
  - [x] Made utility from boxen and chalk
  - [x] Colorize port success message.
  - [x] Colorize db connection message.
